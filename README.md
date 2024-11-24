@@ -1,6 +1,7 @@
 # flutter_firebase_foreground_mlkit_facedetection
 
-A new Flutter project.
+flutter_foreground_mlkit_facedetection + firebase 이걸사용.
+
 
 ## Getting Started
 
