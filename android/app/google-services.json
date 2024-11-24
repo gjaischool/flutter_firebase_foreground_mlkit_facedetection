@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "115891080216",
+    "firebase_url": "https://flutterffmf-default-rtdb.firebaseio.com",
+    "project_id": "flutterffmf",
+    "storage_bucket": "flutterffmf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115891080216:android:0bb10be14dd129519cc76d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_foreground_mlkit_facedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkB0NgDw7XdYzoxgvrE2KGWTWrhub0cVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115891080216:android:e332ff50241c1e7f9cc76d",
+        "android_client_info": {
+          "package_name": "com.example.flutterffmf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkB0NgDw7XdYzoxgvrE2KGWTWrhub0cVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
